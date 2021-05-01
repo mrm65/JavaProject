@@ -14,7 +14,7 @@ public class Main {
 		
 		Instructor instructor = new Instructor();
 		instructor.setFirstName("Engin");
-		instructor.setLastName("Demiroð");
+		instructor.setLastName("Demiroð"); 
 		instructor.setEmail("engin@hotmail.com");
 		instructor.setPassword("123456abc");
 		instructor.setCourseName("Nitelikli yazýlým geliþtirici kampý");
