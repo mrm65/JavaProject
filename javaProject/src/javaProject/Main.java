@@ -21,7 +21,7 @@ public class Main {
 		
 		UserManager userManager = new UserManager();
 		userManager.Add(user1);
-		 
+		  
 		
 		InstructorManager instructorManager = new InstructorManager();
 		instructorManager.Delete(instructor);
